@@ -1,0 +1,2 @@
+﻿This is folder for keep data file about sounds. 
+Please, don't remove it.

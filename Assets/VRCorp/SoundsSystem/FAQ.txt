@@ -1,0 +1,4 @@
+﻿1. Click on the top menu item "Sounds Manager" and click on the "Properties".
+2. Add two audio clips from the Assets to the fields "Sound for button's enter" and "Sound for button's click".
+3. Click on the button "Add for all buttons". It action will add gamobject with AudioSource and add for every buttons in the scene the component "ButtonSoundsComponent" playing the sounds. Every new button in the scene will get the sound component automaticly.
+4. Click on the button "Delete from all buttons" for delete all sound's components and take off adding component automaticly.
